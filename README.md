@@ -2,7 +2,7 @@
 
 Tetris written in plain C (C17) for the Windows console, without any game library. Written in my 2nd year at HTL St. Pölten.
 
-<!-- ![Gameplay](demo.gif) -->
+![Gameplay](docs/tetris.gif)
 
 ## Features
 
